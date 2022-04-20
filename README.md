@@ -22,8 +22,12 @@
 
 **Types**
 
-- @types/jest: 27.4.1,
-- @types/node: 17.0.25,
-- @types/react: 18.0.5,
-- @types/react-dom: 18.0.1,
-- @types/styled-components: 5.1.25,
+- @types/jest: 27.4.1
+- @types/node: 17.0.25
+- @types/react: 18.0.5
+- @types/react-dom: 18.0.1
+- @types/styled-components: 5.1.25
+
+## Documentação completa
+
+[Documentação no notion](https://aurigod.notion.site/Boilerplate-para-projetos-NextJs-eecde8311c6d4f99bc15689e33cd54e4)
