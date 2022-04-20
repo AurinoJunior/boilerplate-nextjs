@@ -5,6 +5,12 @@
       "version": "detect"
     }
   },
+  "env": {
+    "browser": true,
+    "es2021": true,
+    "jest": true,
+    "node": true
+  },
   "plugins": ["@typescript-eslint"],
   "rules": {
     "react/prop-types": "off",
